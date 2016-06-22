@@ -1,7 +1,7 @@
 {
   "name": "java-plus",
   "main": "./lib/java-plus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Make your Java development experience bareable.",
   "keywords": [
     "java",
