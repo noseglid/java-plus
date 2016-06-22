@@ -1,0 +1,25 @@
+{
+  "name": "java-plus",
+  "main": "./lib/java-plus",
+  "version": "0.0.0",
+  "description": "Make your Java development experience bareable.",
+  "keywords": [
+    "java",
+    "import",
+    "autocomplete",
+    "productivity"
+  ],
+  "repository": "https://github.com/noseglid/java-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "package-deps": [
+    "autocomplete-java-minus",
+    "java-import-wiz",
+    "java-classpath-registry"
+  ],
+  "dependencies": {
+    "atom-package-deps": "^4.0.1"
+  }
+}
