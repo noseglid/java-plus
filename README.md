@@ -1,5 +1,7 @@
-# java-plus package
+# Java Plus
 
-A short description of your package.
+An umbrella project to install dependencies for a bearable Java development experience.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+  * [autocomplete-java-minus](https://atom.io/packages/autocomplete-java-minus) for autocompletion
+  * [java-import-wiz](https://atom.io/packages/java-import-wiz) for managing imports
+  * [java-classpath-registry](https://atom.io/packages/java-classpath-registry) used behind the scenes for managing everything in the classpath
